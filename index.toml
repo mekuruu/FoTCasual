@@ -5,10 +5,6 @@ file = "config/ThaumicTinkerer.cfg"
 hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
 
 [[files]]
-file = "modlist.txt"
-hash = "e158f1f2a764a02e99b48282c929ddf7efa102fa2699c5b067cb2ad81c2d0b0f"
-
-[[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
 hash = "a66037092e6b47b166a2d9ba19ffe049e240131ccec980f9d64e33e1d5037dac"
 metafile = true
