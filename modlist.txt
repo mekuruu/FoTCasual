@@ -1,0 +1,49 @@
+Additional Pipes for Buildcraft
+Angelica
+ArchaicFix
+Automagy
+Baubles
+Botania
+BuildCraft
+BuildCraftCompat
+Carpenter's Blocks
+Chisel
+ChiselTones
+CodeChickenCore
+CoFH Core
+Crafting Tweaks
+CraftTweaker
+DragonAPI
+Dual Hotbar
+DummyCore
+Essentia Pipes
+ExpandedRedstone
+FalsePatternLib
+ForbiddenMagic
+Forgelin
+Gadomancy
+GTNHLib
+Hammerz
+Inventory Tweaks ExtraFoamy
+ironchest
+LagGogglesLegacy
+ModTweaker
+NotEnoughItems
+Salis Arcana
+ServerUtilities
+TC4Tweaks
+TCNEIAdditions
+Thaumcraft
+Thaumcraft NEI Plugin
+thaumcraft-research-tweaks
+Thaumic_Exploration
+ThaumicBases
+ThaumicInventoryScanning
+ThaumicTinkerer
+TreeClimbing
+UniMixins
+Waila
+Wawla - What Are We Looking At
+Xaero's Minimap
+Xaero's World Map
+Ztones
