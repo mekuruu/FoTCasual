@@ -95,6 +95,11 @@ hash = "515d28b55001625284f434c4d704efce3288ca3baa5e386615461c7c8bc40088"
 metafile = true
 
 [[files]]
+file = "mods/essentia-pipes.pw.toml"
+hash = "1ba4b9de6afd9b70e76adf073dc07b58b6f8ce7d13d37dab6bb1af32f0784d98"
+metafile = true
+
+[[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
@@ -243,31 +248,3 @@ metafile = true
 file = "mods/ztones.pw.toml"
 hash = "c03b3236b7169f8999bee4b3863f0ec725cf4ffe07ff9f9b8a021484331c468b"
 metafile = true
-
-[[files]]
-file = "scripts/basesDies.zs"
-hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
-
-[[files]]
-file = "scripts/bosniaTweaks.zs"
-hash = "72be23182d3963750045d83f29133ead2d2f38206ed3d838339213de64c3a867"
-
-[[files]]
-file = "scripts/elementalTools.zs"
-hash = "ef6759cfef7f5d6e2f81e3e799fb43a19a0d5c8969a03a33568857f97ad031e9"
-
-[[files]]
-file = "scripts/ham.zs"
-hash = "7343d0a47cddf8cf5c5282d5bbbf3e409a2c7448cca67a93957d6b75afa2fc00"
-
-[[files]]
-file = "scripts/manaBeanHRTReal.zs"
-hash = "c1b95394e3d620be59069080f4fb62da3342f882cd02fc930ea15f1a7b9137c9"
-
-[[files]]
-file = "scripts/runicAltar.zs"
-hash = "44855cdcaf68da24f84f6bd993f8f9d8ec25d07c27bce0532d83b09092bcd46f"
-
-[[files]]
-file = "scripts/thaumTweaks.zs"
-hash = "ecf00636988266a225571a4f07dac556dfc56434cca92c24e1472a9fa7103694"
